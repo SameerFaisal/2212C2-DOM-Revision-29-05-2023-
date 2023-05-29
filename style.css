@@ -1,0 +1,11 @@
+h1{
+    background-color: blueviolet;
+    color: white;
+    text-align: center;
+}
+#i1{
+    border: 3px groove red;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+}
